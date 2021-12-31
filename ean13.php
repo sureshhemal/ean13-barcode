@@ -1,6 +1,6 @@
 <?php
 
-class GenerateBarcode
+class ean13
 {
     public function generate(): string
     {
